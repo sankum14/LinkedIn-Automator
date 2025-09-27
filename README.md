@@ -1,4 +1,4 @@
-LinkedIn News Post Generator with Groq + Colab
+#h3 LinkedIn News Post Generator with Groq + Colab
 
 This project automates the process of turning the latest Yahoo Finance news into a scroll-stopping LinkedIn post that sounds human, smart, and engaging — not like a robot.
 
